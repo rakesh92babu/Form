@@ -11,6 +11,7 @@
 #import "SignInVC.h"
 
 @interface ViewController ()
+@property NSString * name;
 
 @end
 
